@@ -26,7 +26,7 @@ About me:
 
 #
 
-### Stats
+### 📈 Stats
 
 ![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=albert-dimitrov&show_icons=true&theme=midnight-purple)
 
