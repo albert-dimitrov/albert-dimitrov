@@ -1,6 +1,6 @@
 # 👨‍💻 Albert Dimitrov
 
-**'Digital Craftsman (Student/Developer)'**
+** Digital Craftsman (Student/Developer) **
 
 ### Hi there 👋
 
