@@ -1,7 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Albert%20Dimitrov%20%7C%20Backend%20Developer&fontSize=35&fontColor=ffffff&animation=twinkling)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Backend+Developer;Data+QA+%26+Reporting;Python+%7C+Django+%7C+FastAPI;Always+Learning+New+Things)
-
-
 # 👨‍💻 Albert Dimitrov
 
 **Digital Craftsman (Student/Developer)**
